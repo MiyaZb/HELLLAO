@@ -17,7 +17,7 @@ global.youtube = 'https://youtube.com/channel/UC4A3W9-KDxPKI2M4muTjGCQ'
 global.ig = 'https://www.instagram.com/hikal_857/?hl=id'
 global.mygc = 'wa.me/6281364440831'
 global.myweb = 'https://eclass.iainsalatiga.ac.id/app/upload/users/1/10892/my_files/XhiroMhonshine.html'
-global.linkgrupss = "https://chat.whatsapp.com/Jh7zaCSnPCBC4gdYOEVm0K"
+global.linkgrupss = "https://chat.whatsapp.com/JZ6FiGWsGSP4Q4v0mOfRnM"
 global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%20Number&body=Please%20Deactivate%20The%20My%20Account%20Number%20%2B62XXXXXXXX%20Immediately%20Because%20The%20Number%20Has%20Been%20Lost'
 global.email = 'denyp857@gmail.com'
 global.region = 'indonesia'
