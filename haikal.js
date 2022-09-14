@@ -44,7 +44,7 @@ const banned = JSON.parse(fs.readFileSync('./baseikal/dbnye/banned.json'))
 const ntilink = JSON.parse(fs.readFileSync("./baseikal/lib/antilink.json"))
 //=================================================//
 // Function
-wm = 'HW MODS WA'
+wm = 'ciel'
 //=================================================//
 // Time & Date
 const time2 = moment().tz('Asia/Jakarta').format('HH:mm:ss')
@@ -455,7 +455,7 @@ if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 var pollCreation = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "pollCreationMessage": {
-"name": "HALO 👋 SAYA BOT HW MODS WA",
+"name": "HALO 👋 SAYA BOT CIEL",
 "options": [
 	{
 "optionName": "KATANYA WA KEBAL"
@@ -470,7 +470,7 @@ var pollCreation = generateWAMessageFromContent(m.chat, proto.Message.fromObject
 "optionName": "KATANYA KEBAL"
 	},
 	{
-"optionName": "SALAM BROTHER BY HW MODS WA"
+"optionName": "SALAM BROTHER BY CIEL"
 	}
 ],
 "selectableOptionsCount": 5
@@ -493,7 +493,7 @@ var order = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 						"surface": "CATALOG",
 						"message": `© HW MODS WA${ngazap(prefix)}`,
 "jpegThumbnail": mekih,
-"orderTitle": `© HW MODS WA${ngazap(prefix)}`,
+"orderTitle": `© BOT CIEL WA${ngazap(prefix)}`,
 						"sellerJid": "6285714170944@s.whatsapp.net",
 						"token": "AR4TdfqMmZL1Hxo+dInFjtFNQAEBVE1RlecZAg8+2znapg==",			
 }
